@@ -1,0 +1,39 @@
+4 Teferi, Time Raveler
+3 Arboreal Grazer
+4 Golos, Tireless Pilgrim
+1 Realm-Cloaked Giant
+3 Hydroid Krasis
+1 Beanstalk Giant
+2 Agent of Treachery
+4 Circuitous Route
+2 Time Wipe
+4 Growth Spiral
+3 Once Upon a Time
+4 Field of the Dead
+1 Simic Guildgate
+2 Forest
+1 Blossoming Sands
+2 Breeding Pool
+3 Fabled Passage
+1 Golgari Guildgate
+2 Hallowed Fountain
+2 Island
+1 Selesnya Guildgate
+1 Castle Vantress
+2 Temple Garden
+1 Temple of Malady
+1 Temple of Mystery
+1 Plaza of Harmony
+1 Boros Guildgate
+2 Plains
+1 Azorius Guildgate
+
+
+1 Time Wipe
+1 Agent of Treachery
+1 Knight of Autumn
+2 Planar Cleansing
+2 Veil of Summer
+3 Devout Decree
+2 Deputy of Detention
+3 Aether Gust
